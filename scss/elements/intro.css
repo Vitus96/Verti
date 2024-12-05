@@ -1,0 +1,16 @@
+.intro {
+    .btn {
+        width: 100%;
+        justify-content: center;
+    }
+/*
+    @include tablet {
+        .btn {
+            justify-content: space-between;
+        }
+
+        .btn i {
+            order: 1;
+        }
+    }*/
+}
