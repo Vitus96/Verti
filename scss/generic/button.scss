@@ -1,10 +1,11 @@
 .btn {
 
     display: inline-flex;
-    padding: 0.5 * $spacer $spacer;
+    padding: 1.2 * $spacer $spacer;
     border-radius: $border-radius;
     text-decoration: none;
     font-weight: 800;
+    margin: 0.5em;
     //gap: 
 
     &-primary {

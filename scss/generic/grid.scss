@@ -12,6 +12,7 @@
         display: flex;
         gap: 0.5em;
     }
+    
     @for $i from 1 through $columns {
         .col-#{$i} {
             width: $base-column-width * $i;
